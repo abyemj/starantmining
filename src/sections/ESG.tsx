@@ -91,8 +91,8 @@ export default function ESG() {
             {/* Image */}
             <div className="relative rounded-2xl overflow-hidden shadow-2xl">
               <img
-                src="/images/mining-crew.png"
-                alt="Mining Crew"
+                src="/images/work-in-progress.jpg"
+                alt="Work in Progress"
                 className="w-full h-auto object-cover"
               />
               <div className="absolute inset-0 bg-gradient-to-t from-slate-900/60 to-transparent" />
