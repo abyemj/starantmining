@@ -46,7 +46,7 @@ export default function Exploration() {
             <div className="absolute inset-0 bg-gradient-to-t from-slate-900/60 to-transparent" />
             <div className="absolute bottom-6 left-6 right-6">
               <p className="text-white text-lg font-medium">
-                Advanced drilling equipment at our Nigerian operations
+                {t('exploration.imageCaption')}
               </p>
             </div>
           </div>

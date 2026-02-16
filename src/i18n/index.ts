@@ -45,6 +45,8 @@ const resources = {
           area: 'Total Area (sq km)',
           minerals: 'Strategic Minerals'
         }
+        ,
+        established: 'Established'
       },
       business: {
         sectionTitle: 'Core Strategy',
@@ -89,6 +91,8 @@ const resources = {
           item3: 'Sample analysis laboratory',
           item4: 'GPS positioning system'
         },
+
+        imageCaption: 'Advanced drilling equipment at our Nigerian operations',
         stats: {
           area: {
             value: '20+',
@@ -337,6 +341,8 @@ const resources = {
           area: '总面积（平方公里）',
           minerals: '战略矿产种类'
         }
+        ,
+        established: '成立'
       },
       business: {
         sectionTitle: '核心战略',
@@ -381,6 +387,7 @@ const resources = {
           item3: '样品分析实验室',
           item4: 'GPS定位系统'
         },
+        imageCaption: '我们在尼日利亚运营的先进钻探设备',
         stats: {
           area: {
             value: '20+',

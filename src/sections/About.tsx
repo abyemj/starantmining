@@ -60,7 +60,7 @@ export default function About() {
             {/* Floating Badge */}
             <div className="absolute -bottom-6 -right-6 bg-emerald-600 text-white p-6 rounded-2xl shadow-xl">
               <div className="text-3xl font-bold">2023</div>
-              <div className="text-sm opacity-90">Established</div>
+              <div className="text-sm opacity-90">{t('about.established')}</div>
             </div>
           </div>
 
