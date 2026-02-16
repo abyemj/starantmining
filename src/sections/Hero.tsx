@@ -29,7 +29,7 @@ export default function Hero() {
       {/* Background Image with Theme-Aware Overlay */}
       <div className="absolute inset-0">
         <img
-          src="/images/mining-site-aerial.jpg"
+          src="/images/mining-site.jpeg"
           alt="Mining Site"
           className="w-full h-full object-cover"
         />

@@ -16,7 +16,7 @@ const resources = {
       },
       hero: {
         tagline: 'Green Mines · Responsible Mining · Sustainable Future',
-        title: 'Starant Mining Ltd',
+        title: 'Starant New Energy Co. Ltd',
         subtitle: 'Focused on Mining Investment & Development in Africa',
         headquarters: 'Headquarters: Hangzhou, Zhejiang, China',
         operations: 'Operations: Nigeria',
@@ -29,7 +29,7 @@ const resources = {
         subtitle: 'Headquartered in Hangzhou, leveraging digital economy and technological innovation advantages',
         headquarters: {
           title: 'Headquarters Advantage',
-          content: 'Starant Mining Ltd is an innovative enterprise focusing on mining investment and development, headquartered in Hangzhou, Zhejiang Province, China. Hangzhou, a city renowned for its digital economy and innovative vitality, provides Starant with unique geographical advantages and abundant talent resources.'
+          content: 'Starant New Energy Co. Ltd is an innovative enterprise focusing on mining investment and development, headquartered in Hangzhou, Zhejiang Province, China. Hangzhou, a city renowned for its digital economy and innovative vitality, provides Starant with unique geographical advantages and abundant talent resources.'
         },
         innovation: {
           title: 'Technological Innovation',
@@ -134,7 +134,7 @@ const resources = {
         },
         tantalum: {
           title: 'Tantalum & Niobium Project',
-          location: 'Lema Area, Kwara State, Nigeria',
+          location: 'Kwara State, Nigeria',
           area: '28+ Square Kilometers',
           minerals: 'Tantalum, Niobium, Beryllium',
           resources: '10M+ Tons Proven Reserves',
@@ -156,7 +156,7 @@ const resources = {
           title: 'Titanium Project',
           location: 'Bayelsa State, Nigeria',
           area: '50+ Square Kilometers',
-          rights: 'Three Exploration Rights',
+          rights: '3 Exploration Rights',
           exploration: '2026 Exploration Plan',
           description: 'Titanium has broad application prospects in aerospace, medical and chemical industries due to its light weight, high strength and corrosion resistance.',
           applications: ['Aerospace', 'Medical devices', 'Chemical industry', 'Marine engineering']
@@ -276,9 +276,10 @@ const resources = {
         }
       },
       footer: {
-        company: 'Starant Mining Ltd',
+        company: 'Starant New Energy Co. Ltd',
         tagline: 'Focused on Mining Investment & Development in Africa',
         address: 'Headquarters: Hangzhou, Zhejiang Province, China',
+        headquartersAddress: 'Headquarters: Hangzhou, Zhejiang Province, China',
         operations: 'Operations: Nigeria',
         quickLinks: 'Quick Links',
         contact: 'Contact Us',
@@ -307,7 +308,7 @@ const resources = {
       },
       hero: {
         tagline: '绿色矿山 · 负责任采矿 · 可持续未来',
-        title: '星蚁矿业有限公司',
+        title: '星蚁（浙江）新能源有限公司',
         subtitle: '专注于非洲矿业投资与开发',
         headquarters: '总部：中国浙江省杭州市',
         operations: '运营地：尼日利亚',
@@ -425,7 +426,7 @@ const resources = {
         },
         tantalum: {
           title: '钽铌项目',
-          location: '尼日利亚夸拉州莱马地区',
+          location: '尼日利亚夸拉州',
           area: '28+平方公里',
           minerals: '钽、铌、铍',
           resources: '1000万吨以上探明储量',
@@ -447,7 +448,7 @@ const resources = {
           title: '钛矿项目',
           location: '尼日利亚巴耶尔萨州',
           area: '50+平方公里',
-          rights: '三个探矿权',
+          rights: '3个探矿权',
           exploration: '2026年勘探计划',
           description: '钛因其重量轻、强度高、耐腐蚀等特性，在航空航天、医疗和化工行业具有广阔的应用前景。',
           applications: ['航空航天', '医疗器械', '化工行业', '海洋工程']
@@ -567,9 +568,10 @@ const resources = {
         }
       },
       footer: {
-        company: '星蚁矿业有限公司',
+        company: '星蚁（浙江）新能源有限公司',
         tagline: '专注于非洲矿业投资与开发',
         address: '总部：中国浙江省杭州市',
+        headquartersAddress: '总部：中国浙江省杭州市',
         operations: '运营地：尼日利亚',
         quickLinks: '快速链接',
         contact: '联系我们',

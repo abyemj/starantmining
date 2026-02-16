@@ -42,6 +42,10 @@ export default function Footer() {
                 <MapPin className="h-5 w-5 text-emerald-400 flex-shrink-0 mt-0.5" />
                 <span>14A F.O Williams Street, Life Camp, Jabi Abuja, Nigeria</span>
               </div>
+              <div className="flex items-start space-x-3 text-slate-400">
+                <MapPin className="h-5 w-5 text-emerald-400 flex-shrink-0 mt-0.5" />
+                <span>{t('footer.headquartersAddress')}</span>
+              </div>
             </div>
           </div>
 

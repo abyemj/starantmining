@@ -1,4 +1,4 @@
-# Starant Mining Ltd — Frontend
+# Starant New Energy Co. Ltd — Frontend
 
 A Vite + React + TypeScript + TailwindCSS starter for the Starant frontend.
 

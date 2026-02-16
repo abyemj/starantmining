@@ -88,14 +88,43 @@ export default function ESG() {
           </h3>
           
           <div className="grid lg:grid-cols-2 gap-12 items-center mb-12">
-            {/* Image */}
-            <div className="relative rounded-2xl overflow-hidden shadow-2xl">
-              <img
-                src="/images/work-in-progress.jpg"
-                alt="Work in Progress"
-                className="w-full h-auto object-cover"
-              />
-              <div className="absolute inset-0 bg-gradient-to-t from-slate-900/60 to-transparent" />
+            {/* Image gallery */}
+            <div className="grid grid-cols-2 gap-2 rounded-2xl overflow-hidden shadow-2xl">
+              <div className="relative">
+                <img
+                  src="/images/road01-underconstruction.png"
+                  alt="Road 01 under construction"
+                  className="w-full h-48 md:h-64 object-cover"
+                />
+                <div className="absolute inset-0 bg-gradient-to-t from-slate-900/40 to-transparent" />
+              </div>
+
+              <div className="relative">
+                <img
+                  src="/images/road01-completed.png"
+                  alt="Road 01 completed"
+                  className="w-full h-48 md:h-64 object-cover"
+                />
+                <div className="absolute inset-0 bg-gradient-to-t from-slate-900/40 to-transparent" />
+              </div>
+
+              <div className="relative">
+                <img
+                  src="/images/road02-underconstruction.png"
+                  alt="Road 02 under construction"
+                  className="w-full h-48 md:h-64 object-cover"
+                />
+                <div className="absolute inset-0 bg-gradient-to-t from-slate-900/40 to-transparent" />
+              </div>
+
+              <div className="relative">
+                <img
+                  src="/images/road02-completed.png"
+                  alt="Road 02 completed"
+                  className="w-full h-48 md:h-64 object-cover"
+                />
+                <div className="absolute inset-0 bg-gradient-to-t from-slate-900/40 to-transparent" />
+              </div>
             </div>
 
             {/* Content */}
