@@ -87,9 +87,9 @@ const resources = {
         equipment: {
           title: 'Exploration Equipment & Technology',
           item1: 'Advanced drilling equipment',
-          item2: 'Geological radar system',
+          item2: 'Exploration Data Analysis',
           item3: 'Sample analysis laboratory',
-          item4: 'GPS positioning system'
+          item4: 'Environmental Assessment'
         },
 
         imageCaption: 'Advanced drilling equipment at our Nigerian operations',
@@ -383,9 +383,9 @@ const resources = {
         equipment: {
           title: '勘探设备与技术',
           item1: '先进钻探设备',
-          item2: '地质雷达系统',
+          item2: '勘探数据分析',
           item3: '样品分析实验室',
-          item4: 'GPS定位系统'
+          item4: '环境评估'
         },
         imageCaption: '我们在尼日利亚运营的先进钻探设备',
         stats: {
